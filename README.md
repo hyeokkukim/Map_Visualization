@@ -1,11 +1,11 @@
 # Map_Visualization
-**서울시 법정동 기준 지도 시각화
+서울시 법정동 기준 지도 시각화
 <br/>
 본 repository는 해당 [링크](https://github.com/raqoon886/Local_HangJeongDong/blob/master/README.md)를 참고했습니다.
  
 
 ____
-**용어설명<br/>
+용어설명<br/>
 geojson: repository의 geojson파일, 해당 geojson은 [국가공간정보포털](http://data.nsdi.go.kr/dataset)의 데이터를 가공<br/>
 locations: 데이터셋에서 geojson파일에 매칭시킬 컬럼<br/>
 color: 시각화 할 컬럼<br/>
