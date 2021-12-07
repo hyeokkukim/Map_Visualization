@@ -38,3 +38,4 @@ fig = px.choropleth_mapbox(sample, #데이터셋
 
 fig
 ```
+![] (https://raw.githubusercontent.com/hyeokkukim/Map_Visualization/main/seoul.png)
