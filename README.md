@@ -38,4 +38,4 @@ fig = px.choropleth_mapbox(sample, #데이터셋
 
 fig
 ```
-
+<img width="759" alt="seoul" src="https://user-images.githubusercontent.com/73429381/144951778-015f3cf9-78aa-4a14-b701-7d143c0a0aa5.png">
