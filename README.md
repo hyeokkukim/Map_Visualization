@@ -6,14 +6,14 @@
  
 
 ____
-용어설명. 
-geojson: repository의 geojson파일, 해당 geojson은 [국가공간정보포털](http://data.nsdi.go.kr/dataset)의 데이터를 가공. 
-locations: 데이터셋에서 geojson파일에 매칭시킬 컬럼. 
-color: 시각화 할 컬럼. 
-color_continuous_scale: [plotly 패키지](http://data.nsdi.go.kr/dataset)의 color scale. 
-featureidkey: geojson에 매칭될 컬럼(해당 geojson에서는 properties.EMD_NM. 
-mapbox_style: 지도레이어 박스 스타일. 
-center: 중심점 (서울: 37.563383, 126.996039). 
+용어설명<br/>
+geojson: repository의 geojson파일, 해당 geojson은 [국가공간정보포털](http://data.nsdi.go.kr/dataset)의 데이터를 가공<br/>
+locations: 데이터셋에서 geojson파일에 매칭시킬 컬럼<br/>
+color: 시각화 할 컬럼<br/>
+color_continuous_scale: [plotly 패키지](http://data.nsdi.go.kr/dataset)의 color scale<br/>
+featureidkey: geojson에 매칭될 컬럼(해당 geojson에서는 properties.EMD_NM<br/>
+mapbox_style: 지도레이어 박스 스타일<br/>
+center: 중심점 (서울: 37.563383, 126.996039)<br/>
 
 ```python
 import os, json
