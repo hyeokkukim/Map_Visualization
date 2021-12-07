@@ -38,4 +38,4 @@ fig = px.choropleth_mapbox(sample, #데이터셋
 
 fig
 ```
-![png] (seoul.png)
+
