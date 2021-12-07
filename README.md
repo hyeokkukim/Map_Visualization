@@ -7,7 +7,7 @@
 # 참고: https://github.com/raqoon886/Local_HangJeongDong/blob/master/README.md
 # shp -> json: https://park9eon.com/how-to-convert-to-korea-shp-geojson/
 
-'''python
+```python
 import os, json
 import pandas as pd
 import plotly.express as px
@@ -31,4 +31,4 @@ fig = px.choropleth_mapbox(dong_data, #데이터셋
                           )
 
 fig
-'''
+```
