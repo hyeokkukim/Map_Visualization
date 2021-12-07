@@ -39,4 +39,3 @@ fig = px.choropleth_mapbox(sample, #데이터셋
 fig
 ```
 
-![initial] (https://user-images.githubusercontent.com/73429381/144951608-23d83e39-f5d1-414c-855f-cd86367e0b39.png)
